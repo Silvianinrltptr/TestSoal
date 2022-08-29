@@ -1,0 +1,1 @@
+{"uuid":"92cab0ee-a9c0-4fcf-84c3-3e23fc06415f","name":"qaautomation.testTokped.BasePageTokped.close","description":"","start":1661755589696,"stop":1661755589697,"children":["8a4b72a3-905b-468e-9cfa-a0a6d32b4630"],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","start":1661755589697,"stop":1661755589697}]}
